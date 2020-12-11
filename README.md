@@ -3,7 +3,7 @@ A list of JARM hashes for different ssl implementations used by some C2 tools. A
 
 For more info on JARM hashing, check out the work by the Salesforce security team on their JARM github link here: https://github.com/salesforce/jarm
 
-This is a neat way to fingerprint ssl servers by the software implementation. This alone would not be sufficient to detect C2 in a high fidelity manner, but JARM hashes coupled with other high value indicators would certainly be of value.
+This is a neat way to fingerprint ssl servers by the software implementation. This alone would not be sufficient to detect C2 in a high fidelity manner, but JARM hashes coupled with other high value indicators would certainly be of value. This also highlights the need for red teams to ensure their C2 infra is not exposed for public access.
 
 I plan to add more to this list over time. Feel free to contribute!!
 
