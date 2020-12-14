@@ -21,3 +21,4 @@ I plan to add more to this list over time. Feel free to contribute!!
 | MacShell | python 3.8.6 socket | 2ad000000000000000000000000000eeebf944d0b023a00f510f06a29b4f46 | https://github.com/cedowens/MacShellSwift |
 | Sliver | go 1.15.2 linux/amd64 | 2ad2ad0002ad2ad00041d2ad2ad41da5207249a18099be84ef3c8811adc883 | https://github.com/BishopFox/sliver |
 | EvilGinx2 | go 1.10.4 linux/amd64 | 20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe09910a511e6 | https://github.com/kgretzky/evilginx2 |
+| Shad0w | docker | 2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb | https://github.com/bats3c/shad0w |
