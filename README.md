@@ -8,7 +8,7 @@ This is a neat way to fingerprint ssl servers by the software implementation. Th
 I plan to add more to this list over time. Feel free to contribute!!
 
 
-| C2 TOOL |      SSL IMPLEMENTATION TESTED      |                           JARM HASH                            |                    LINK TO TOOL                  |
+| C2/RED TEAM TOOL |      SSL IMPLEMENTATION TESTED      |                           JARM HASH                            |                    LINK TO TOOL                  |
 |---------|------------------------------|----------------------------------------------------------------|--------------------------------------------------|
 | Mythic  | python 3 w/aiohttp 3 | 2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb | https://github.com/its-a-feature/Mythic          |
 | Metasploit ssl listener | ruby 2.7.0p0 | 07d14d16d21d21d00042d43d000000aa99ce74e2c6d013c745aa52b5cc042d | https://github.com/rapid7/metasploit-framework |
