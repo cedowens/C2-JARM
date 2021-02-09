@@ -1,5 +1,5 @@
 # C2-JARM
-A list of JARM hashes for different ssl implementations used by some C2 tools. Also adding other useful red team tools that use ssl (ex: EvilGinx2).
+A list of JARM hashes for different ssl implementations used by some C2 tools. Also adding other useful red team tools that use ssl (ex: EvilGinx2). Though I work on the red team side, I thought this would be a good thing to gather both to help blue teams who have the appropriate visibility with additional indicators for identifying C2 activity as well as to help other red teamers understand another method that can be used to detect their C2, depending on how it is set up.
 
 For more info on JARM hashing, check out the work by the Salesforce security team on their JARM github link here: https://github.com/salesforce/jarm
 
