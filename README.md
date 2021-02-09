@@ -27,4 +27,4 @@ I plan to add more to this list over time. Feel free to contribute!!
 | GRAT2 C2 | python3 http.server | 2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb | https://github.com/r3nhat/GRAT2 |
 | Covenant | ASP.net core | 21d14d00000000021c21d14d21d21d1ee8ae98bf3ef941e91529a93ac62b8b | https://github.com/cobbr/Covenant |
 | SILENTRINITY teamserver | ironpython | 2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb | https://github.com/byt3bl33d3r/SILENTTRINITY |
-| PoshC2 | | 2ad2ad0002ad2ad22c42d42d000000faabb8fd156aa8b4d8a37853e1063261 | https://github.com/nettitude/PoshC2
+| PoshC2 | python3 http.server | 2ad2ad0002ad2ad22c42d42d000000faabb8fd156aa8b4d8a37853e1063261 | https://github.com/nettitude/PoshC2
