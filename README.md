@@ -24,3 +24,4 @@ I plan to add more to this list over time. Feel free to contribute!!
 | EvilGinx2 | go 1.10.4 linux/amd64 | 20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe09910a511e6 | https://github.com/kgretzky/evilginx2 |
 | Shad0w | python 3.8 flask | 2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb | https://github.com/bats3c/shad0w |
 | Get2 | N/A | 07d19d12d21d21d07c07d19d07d21da5a8ab90bcc6bf8bbc6fbec4bcaa8219 | |
+| GRAT2 C2 | python3 http.server | 2ad2ad0002ad2ad00042d42d000000ad9bf51cc3f5a1e29eecb81d0c7b06eb | https://github.com/r3nhat/GRAT2 |
